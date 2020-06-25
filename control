@@ -1,0 +1,9 @@
+Package: com.icraze.noticlearer
+Name: NotiClearer
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Automatically Clear Notifications After A Custom Amount Of Time.
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
